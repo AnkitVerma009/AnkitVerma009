@@ -28,16 +28,16 @@
 ## 👨‍💻 About Me
 
 <pre>
-name        : Ankit Verma
-location    : Maryland, USA 🇺🇸
-education   : M.S. Data Science @ UMBC (GPA: 3.9)
-experience  : 4+ years in Data & AI Engineering
-focus       : Azure · PySpark · RAG · LLM Systems
-certifications:
+Name        : Ankit Verma
+Location    : United States
+Education   : M.S. Data Science @ UMBC (GPA: 3.9)
+Experience  : 4+ years in Data & AI Engineering
+Focus       : Azure · PySpark · RAG · LLM Systems
+Certifications:
   - Databricks Data Engineer Associate (2026)
   - Azure Data Engineer DP-203 (2024)
   - Microsoft Fabric Analytics Engineer DP-600
-currently   : Building Esports Intelligence on Azure 🎮
+Currently   : Building Esports Intelligence on Azure 🎮
 </pre>
 
 <br clear="right"/>
